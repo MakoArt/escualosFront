@@ -1,6 +1,6 @@
   <h1>FRONTEND DE LA PÁGINA</h1>
    <h2>Acceder a la web en este enlace</h2>
-   <a href="https://makoart.github.io/escualosFront/">
+   <h3="https://makoart.github.io/escualosFront</h3">
 
    <img src="./img/shark-2683184_1920.jpg"></img>
 
