@@ -151,6 +151,7 @@ margin-top: 19px;
   #inicioImg{
       background-position-y:-90px ;
       height: 900px;
-      background-image: url('../img/shark-2683184_1920.jpg');
+  
+      width: 100%;
   }
 }
